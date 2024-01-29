@@ -151,7 +151,7 @@ ul li {
 	margin-left: 40px;
 }
 .navigation a:hover, .navigation a.active {
-	color: #262626;
+	color: #55b5e6;
 }
 .nav-toggle {
 	display: none;
